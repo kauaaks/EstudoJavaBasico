@@ -2,3 +2,4 @@ ESTUDO DA LINGUAGEM JAVA APARTIR DO CURSO DO NÉLIO ALVES. NESTE REPOSITÓRIO TE
 - estrutura sequencial
 - estrutura condicional
 - estrutura repetitivas
+- funções interessantes para String

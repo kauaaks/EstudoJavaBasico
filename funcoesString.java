@@ -26,5 +26,13 @@ public class Main {
         System.out.println("replace('abc', 'xy'): -" + s07 + "-");
         System.out.println("Index of 'bc': " + i);
         System.out.println("Last index of 'bc': " + j);
+
+        String s = "potato apple lemon orange";
+        // .split(" ") recorta em varias partes separadas pelo espaço, e esta guardando elas em um vetor.
+        String[] vect = s.split( " ");
+        System.out.println(vect[0]);
+        System.out.println(vect[1]);
+        System.out.println(vect[2]);
+        System.out.println(vect[3]);
     }
 }
